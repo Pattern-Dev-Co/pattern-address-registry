@@ -49,6 +49,8 @@ library Ethereum {
 
     address internal constant PATTERN_PROXY = 0xbC8959Ae2d4E9B385Fe620BEF48C2FD7f4A84736;
 
+    address internal constant PATTERN_STAR_GUARD = 0x2fb18b28fB39Ec3b26C3B5AF5222e2ca3B8B2269;
+
     /******************************************************************************************************************/
     /*** Pattern Allocation System Addresses                                                                          ***/
     /******************************************************************************************************************/
