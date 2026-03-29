@@ -44,23 +44,25 @@ library Ethereum {
     address internal constant VAT         = 0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B;
 
     /******************************************************************************************************************/
-    /*** GroveDAO Addresses                                                                                         ***/
+    /*** PatternDAO Addresses                                                                                         ***/
     /******************************************************************************************************************/
 
-    address internal constant GROVE_PROXY = 0x1369f7b2b38c76B6478c0f0E66D94923421891Ba;
+    address internal constant PATTERN_PROXY = 0xbC8959Ae2d4E9B385Fe620BEF48C2FD7f4A84736;
+
+    address internal constant PATTERN_STAR_GUARD = 0x2fb18b28fB39Ec3b26C3B5AF5222e2ca3B8B2269;
 
     /******************************************************************************************************************/
-    /*** Grove Allocation System Addresses                                                                          ***/
+    /*** Pattern Allocation System Addresses                                                                          ***/
     /******************************************************************************************************************/
 
-    address internal constant ALLOCATOR_BUFFER   = 0x629aD4D779F46B8A1491D3f76f7E97Cb04D8b1Cd;
+    address internal constant ALLOCATOR_BUFFER   = 0x823459b55D79F0421f24a4828237F7ecb8D7F1ef;
     address internal constant ALLOCATOR_ORACLE   = 0xc7B91C401C02B73CBdF424dFaaa60950d5040dB7;
     address internal constant ALLOCATOR_REGISTRY = 0xCdCFA95343DA7821fdD01dc4d0AeDA958051bB3B;
     address internal constant ALLOCATOR_ROLES	 = 0x9A865A710399cea85dbD9144b7a09C889e94E803;
-    address internal constant ALLOCATOR_VAULT	 = 0x26512A41C8406800f21094a7a7A0f980f6e25d43;
+    address internal constant ALLOCATOR_VAULT	 = 0xbd34fc6AAa1d3F52B314CB9D78023dd23eAc3B0E;
 
     /******************************************************************************************************************/
-    /*** Grove Liquidity Layer Addresses                                                                            ***/
+    /*** Pattern Liquidity Layer Addresses                                                                            ***/
     /******************************************************************************************************************/
 
     address internal constant ALM_CONTROLLER  = 0xB111E07c8B939b0Fe701710b365305F7F23B0edd;
@@ -75,6 +77,12 @@ library Ethereum {
     /******************************************************************************************************************/
 
     address internal constant ETHENA_MINTER = 0xe3490297a08d6fC8Da46Edb7B6142E4F461b62D3;
+
+    /******************************************************************************************************************/
+    /*** Maple Finance Addresses                                                                                   ***/
+    /******************************************************************************************************************/
+
+    address internal constant SYRUP_USDC = 0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b;
 
     /******************************************************************************************************************/
     /*** Blackrock BUIDL Addresses                                                                                  ***/
