@@ -131,4 +131,10 @@ library Ethereum {
 
     address public constant PENDLE_ROUTER = 0x888888888889758F76e7103c6CbF23ABbF58F946;
 
+    /******************************************************************************************************************/
+    /*** River One Offramp Addresses                                                                                ***/
+    /******************************************************************************************************************/
+
+    address internal constant RIVER_SPV_2_OFFRAMP = 0xfD2cB7Ebbb339B9AA4E9C60e5aFa460F4888320F;
+
 }
